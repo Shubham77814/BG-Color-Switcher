@@ -6,7 +6,7 @@ buttons.forEach((button) => {
     //console.log(e.target.parentNode);
     if (e.target.id === "grey") {
       body.style.backgroundColor = e.target.id;
-    }
+    } 
 
     if (e.target.id === "yellow") {
       body.style.backgroundColor = e.target.id;
